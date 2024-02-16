@@ -37,7 +37,7 @@ function Get-Weather {
   <# BEGIN VARIABLES #>
   
   <# Get your API Key (it's free) from http://openweathermap.org/api and change the value below with your key #>
-  $API = "e031337606c7cf7dc741ab4c755f82a7"
+  $API = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
   
   <# Check if you have entered an API key and if not, exit the script.
   Do NOT change this value, only the one above! #>
